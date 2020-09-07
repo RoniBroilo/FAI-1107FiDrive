@@ -1,3 +1,3 @@
 <?php
-echo "Este es el Test de Vista";
+echo "Este es el Test de Vista.";
 ?>
