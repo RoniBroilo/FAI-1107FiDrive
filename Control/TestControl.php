@@ -1,3 +1,3 @@
 <?php
- echo "Este es el Test del Control";
+ echo "Este es el Test del Control.";
 ?>
